@@ -61,3 +61,7 @@ The GLM file contains some helpful global variables you can use to identify what
 * [NSRDB Weather](https://docs.gridlabd.us/index.html?owner=arras-energy&project=gridlabd&branch=master&folder=/Utilities&doc=/Utilities/Nsrdb_weather.md)
 * [METAR Weather](https://docs.gridlabd.us/)
 * [NOAA Weather](https://docs.gridlabd.us/index.html?owner=arras-energy&project=gridlabd&branch=master&folder=/Utilities&doc=/Utilities/Noaa_forecast.md)
+
+# Next Lesson
+
+* [Lesson 7 - Adding quasi-static load](../../../lesson-7)
