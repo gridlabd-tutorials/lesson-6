@@ -64,4 +64,4 @@ The GLM file contains some helpful global variables you can use to identify what
 
 # Next Lesson
 
-* [Lesson 7 - Adding quasi-static load](../../../lesson-7)
+* [Lesson 7 - Adding quasi-static loads](../../../lesson-7)
